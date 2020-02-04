@@ -1,4 +1,4 @@
-# Continuous Integration Container
+# Continuous Integration Containers
 
 This is a list of docker containers I commonly use for continuous integration tasks.
 The individual containers can be pulled from dockerhub via
