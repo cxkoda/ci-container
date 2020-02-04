@@ -17,5 +17,5 @@ Each container contains
 
 Please be aware that the containers might  also contain other, unnecessary stuff, since I did not start from scratch.
 
-The containers can be build by executing `build.sh`
+The containers can be build by executing `build.sh`  
 Note to myself: Push the docker repo after changes using `sudo docker push cxkoda/ci`
