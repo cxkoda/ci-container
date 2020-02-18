@@ -14,6 +14,7 @@ Each container contains
 * cmake >= 3.2
 * compiler (gcc / clang) of a defined version
 * gcovr
+* valgrind
 
 Please be aware that the containers might  also contain other, unnecessary stuff, since I did not start from scratch.
 
