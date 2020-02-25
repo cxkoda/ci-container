@@ -1,3 +1,4 @@
-FROM rikorose/gcc-cmake:gcc-6
-RUN apt update -qq \
-  && apt install -y -qq gcovr valgrind
+FROM conanio/gcc6
+RUN sudo apt update -qq \
+  && sudo apt install -y -qq gcovr valgrind
+RUN sudo apt install -y libhdf5-dev
